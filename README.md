@@ -11,10 +11,11 @@
 
 Run this code to open a start template of Streamlit: 
 
-`streamlit hello`
-
-1. Open a new file named `main.py` inside the root directory.
-2. Import the Streamlit library with the following code:
+```commandline
+streamlit hello
+```
+Open a new file named `main.py` inside the root directory. 
+Import the Streamlit library with the following code:
 
 ```python
 import streamlit as st
