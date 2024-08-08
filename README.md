@@ -14,6 +14,11 @@ Run this code to open a start template of Streamlit:
 ```commandline
 streamlit hello
 ```
+This command will open a browser with the following (maybe a bit different) content:
+
+![image](https://github.com/user-attachments/assets/dff5cbc8-1438-404c-8ce7-b189bb232114)
+
+
 Open a new file named `main.py` inside the root directory. 
 Import the Streamlit library with the following code:
 
