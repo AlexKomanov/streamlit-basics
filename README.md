@@ -5,8 +5,8 @@
 1. `pip3 install streamlit`  
    *Installs the Streamlit library, a tool for creating interactive web applications from Python scripts.*
 
-2. `pip3 install pandas matplotlib`  
-   *Installs Pandas for data manipulation and analysis, and Matplotlib for creating visualizations.*
+2. `pip3 install pandas`  
+   *Installs Pandas for data manipulation and analysis.*
 
 
 Run this code to open a start template of Streamlit: 
